@@ -1,2 +1,2 @@
 # IDFL-Host-Background
-This page is for IDFL forum image storage only.
+This page is for IDFL forum background storage only.
